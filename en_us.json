@@ -1,0 +1,17 @@
+{
+	"custombg.button": "Background",
+	"custombg.screen.title": "Choose Background",
+	"custombg.done": "Done",
+	"custombg.bg.vanilla": "Default",
+	"custombg.bg.sunset": "Sunset",
+	"custombg.bg.night": "Starry Night",
+	"custombg.bg.aurora": "Aurora",
+	"custombg.bg.ocean": "Ocean",
+	"custombg.bg.forest": "Forest",
+	"custombg.bg.nether": "Nether",
+	"custombg.bg.end": "The End",
+	"custombg.bg.desert": "Desert",
+	"custombg.open_folder": "Open my backgrounds folder",
+	"custombg.open_folder.tooltip": "Put PNG/JPG files here and press Refresh, or just drag an image into the game window.",
+	"custombg.refresh": "Refresh list"
+}

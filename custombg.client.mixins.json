@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.custombg.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ScreenBackgroundMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

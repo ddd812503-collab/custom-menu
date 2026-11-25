@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "custombg",
+	"version": "${version}",
+	"name": "Custom Background / Выбор фона",
+	"description": "Кнопка «Фон» в главном меню: выбор своего фона для главного меню и всех экранов игры.",
+	"authors": ["Claude"],
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.custombg.client.CustomBackgroundClient"]
+	},
+	"mixins": [
+		{
+			"config": "custombg.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

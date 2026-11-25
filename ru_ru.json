@@ -1,0 +1,17 @@
+{
+	"custombg.button": "Фон",
+	"custombg.screen.title": "Выбор фона",
+	"custombg.done": "Готово",
+	"custombg.bg.vanilla": "Стандартный",
+	"custombg.bg.sunset": "Закат",
+	"custombg.bg.night": "Звёздная ночь",
+	"custombg.bg.aurora": "Северное сияние",
+	"custombg.bg.ocean": "Океан",
+	"custombg.bg.forest": "Лес",
+	"custombg.bg.nether": "Незер",
+	"custombg.bg.end": "Энд",
+	"custombg.bg.desert": "Пустыня",
+	"custombg.open_folder": "Открыть папку со своими",
+	"custombg.open_folder.tooltip": "Положите сюда PNG/JPG и нажмите «Обновить» — или просто перетащите картинку в окно игры.",
+	"custombg.refresh": "Обновить список"
+}
